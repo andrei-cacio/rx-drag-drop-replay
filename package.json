@@ -1,0 +1,25 @@
+{
+  "name": "drag-and-drop-replay",
+  "version": "1.0.0",
+  "description": "A simple RxJS example of a draggable element with a replay button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei-cacio/rx-drag-drop-replay.git"
+  },
+  "keywords": [
+    "rxjs",
+    "drag",
+    "drop",
+    "subject"
+  ],
+  "author": "Andrei Cacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrei-cacio/rx-drag-drop-replay/issues"
+  },
+  "homepage": "https://github.com/andrei-cacio/rx-drag-drop-replay#readme"
+}
